@@ -47,16 +47,21 @@ Built LWCs powering an end-to-end student visa application portal, including val
 
 ### 🛠️ Skills
 
-**Platforms:** Sales Cloud · Experience Cloud
-**Development:** Apex (Triggers, Batch, Scheduled, Async) · LWC · SOQL/SOSL
-**Automation:** Flows · OmniStudio · Salesforce CPQ
-**Integration:** REST APIs · Apex REST Classes · Connected Apps
-**Tools:** VS Code · Data Loader · Workbench · Postman · Gearset · Git
+| Category | Skills |
+|---|---|
+| **Platforms** | Sales Cloud · Experience Cloud |
+| **Development** | Apex (Triggers, Batch, Scheduled, Async) · LWC · SOQL/SOSL |
+| **Automation** | Flows · OmniStudio · Salesforce CPQ |
+| **AI** | Agentforce · Prompt Builder |
+| **Integration** | REST APIs · Apex REST Classes · Connected Apps |
+| **Tools** | VS Code · Data Loader · Workbench · Postman · Gearset · Git |
 
 <p align="left">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salesforce%20CPQ-00A1E0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
